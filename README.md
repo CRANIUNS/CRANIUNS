@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kaua Penna — Linux & DevOps | Automação | Bots
 
-<!--
-**CRANIUNS/CRANIUNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional autodidata focado em Linux, infraestrutura e automação.
 
-Here are some ideas to get you started:
+Experiência prática em:
+• Configuração de servidores Linux (Arch/Ubuntu/VPS)
+• Deploy de aplicações com Docker e Nginx
+• Bots Telegram/WhatsApp
+• Scripts Python para automação
+• Troubleshooting e otimização de sistemas
+• Backend com Django/FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+🚀 Bots e automações  
+🚀 Deploy de aplicações web  
+🚀 Scripts utilitários Linux  
+🚀 Backend Python
+
+Todos os códigos estão disponíveis nos repositórios abaixo.
+
+📩 Disponível para freelas e projetos remotos.
