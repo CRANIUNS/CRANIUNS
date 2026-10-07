@@ -58,3 +58,52 @@
 ---
 
 ### $ git stats
+Abaixo está o bloco final completo incluindo a seção que vem após as estatísticas do Git, adicionando uma área para **Projetos em Destaque** (com links de repositórios) e o rodapé de contato do terminal:
+
+
+---
+
+### <code>$ git stats</code>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CRANIUNS&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CRANIUNS&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### <code>$ find ./projects -type f -exec highlight {} \;</code>
+
+
+```
+
+📦 Key Repositories & Implementations
+├── 🔒 Security & Vaults       # Password managers & local credential encryption tools
+├── 🐳 Custom Infrastructure   # Tailored Dockerfiles, isolated environments & QEMU setups
+└── ⚡ System Automations      # Zsh & Python scripts for Linux workflow optimization
+
+```
+
+---
+
+### <code>$ ping -c 1 contact.local</code>
+
+
+```
+
+PING contact.local (127.0.0.1): 56 data bytes
+64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.042 ms
+
+--- contact.local ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+status: open for remote opportunities, systems development & devops project collaboration.
+
+```
+
+<br>
+
+<div align="center">
+  <sub><i>"Understand how things work under the hood, then automate them."</i></sub>
+</div>
+
+
