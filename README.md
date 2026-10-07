@@ -17,7 +17,7 @@
 
 ```json
 {
-  "developer": "Kauã Henrique da Silva Penna",
+  "developer": "Kauã Penna",
   "focus": ["System Programming", "Low-Level Graphics", "Linux Kernel & Workflows", "DevOps"],
   "core_stack": ["C", "C++", "Python", "TypeScript", "Zsh"],
   "environment": {
