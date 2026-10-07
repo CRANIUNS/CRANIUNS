@@ -35,8 +35,7 @@
 ```
 
 ---
-
-### $ ls -la skills/
+### <code>$ ls -la skills/</code>
 
 ```
 ├── LANGUAGES/
@@ -57,13 +56,9 @@
 
 ---
 
-### $ git stats
-Abaixo está o bloco final completo incluindo a seção que vem após as estatísticas do Git, adicionando uma área para **Projetos em Destaque** (com links de repositórios) e o rodapé de contato do terminal:
-
-
+### <code>$ git stats</code>
 ---
 
-### <code>$ git stats</code>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CRANIUNS&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
